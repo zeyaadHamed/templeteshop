@@ -328,7 +328,7 @@
     margin: 50px;
 }
 .online-shop .container .image {
-    background-image: url('images/onlineshop.webp');
+    background-image: url('../images/onlineshop.webp');
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
