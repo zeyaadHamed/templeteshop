@@ -139,7 +139,7 @@
 /* End Header */
 .landing {
     width: 100%;
-    background: url('/images/landing.webp');
+    background: url('../images/landing.webp');
     background-repeat: no-repeat;
     min-height: 220px;
     display: flex;
