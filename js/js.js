@@ -6,10 +6,8 @@ let linksBarsVisible = false;
 bars.addEventListener('click', () => {
     if (linksBarsVisible) {
         linksBars.style.display = "none";
-        
     } else {
         linksBars.style.display = "block";
-      
       }
     linksBarsVisible = !linksBarsVisible;
 });

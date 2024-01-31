@@ -48,7 +48,6 @@
     width: 70%;
     left: 0;
     display: none;
-    opacity: 0;
     transition: var(--main-transition);
 }
 
@@ -140,7 +139,7 @@
 /* End Header */
 .landing {
     width: 100%;
-    background: url('/images/landing.webp');
+    background: url('images/landing.webp');
     background-repeat: no-repeat;
     min-height: 220px;
     display: flex;
@@ -329,7 +328,7 @@
     margin: 50px;
 }
 .online-shop .container .image {
-    background-image: url('/images/onlineshop.webp');
+    background-image: url('images/onlineshop.webp');
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
